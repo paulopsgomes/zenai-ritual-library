@@ -1,0 +1,11 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #f8fafc;
+  margin: 0;
+  padding: 0;
+  color: #1f2937;
+}
+
+input {
+  outline: none;
+}
